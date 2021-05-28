@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+
+#tabuser{
+	width: 60%;
+	background-color: gold;
+	font: bold xx-large;
+}
+
+tr{
+	background-color: green;
+}
+td{
+	background-color: white;
+	font-size: 20px;
+	font-family: serif;
+	border-radius: 6px;
+	margin: 4px;
+	padding: 4px;
+}
+
+
+button{
+	padding: 10px 20px;
+	margin: 5px;
+	background-color: black;
+	color: white;
+	border: none;
+	outline: none;
+	border-radius: 5px;
+}
